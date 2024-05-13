@@ -106,9 +106,8 @@ bootstrap:
                 description: Data from OPC UA   # HINT
         - ns-name: uc
           description: Use cases for the Ice Cream Factory
-
           ns-nodes:
-              - node-name: uc:001:ooe
+              - node-name: uc:001:oee
                 description: Overall Equipment Effectiveness
                 shared access:
                     read:
